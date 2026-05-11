@@ -12,12 +12,10 @@ A modern e-commerce platform with a voice-enabled search and a sleek React front
 
 ## 📁 Project Structure
 
-```text
 E-Commerce/
 ├── Backend/          # Node.js Express server, models, controllers
 ├── FrontEnd/         # React/Vite application
 └── README.md         # Project documentation
-```
 
 ## 🛠️ Tech Stack
 
@@ -58,6 +56,9 @@ E-Commerce/
    # Update .env if necessary
    npm run dev
    ```
+### run the project
+   backend: npm start
+   frontend: npm run dev
 
 ## 📄 License
 
