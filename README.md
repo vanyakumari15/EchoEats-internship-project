@@ -63,3 +63,6 @@ E-Commerce/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## deployed
+echoeatsecommerce.netlify.app
