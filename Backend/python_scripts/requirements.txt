@@ -1,0 +1,14 @@
+# EchoEats — Python Scripts
+# =========================
+# These Python utilities handle data management and analytics
+# for the EchoEats platform.
+#
+# Setup:
+#   pip install pymongo python-dotenv
+#
+# Scripts:
+#   1. seed_products.py    — Seeds the MongoDB database with product catalog
+#   2. analytics_report.py — Generates business analytics & inventory reports
+
+pymongo>=4.6.0
+python-dotenv>=1.0.0
